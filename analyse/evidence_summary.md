@@ -81,4 +81,8 @@ This summary compiles claims from collected sources, following the repository's 
 | Europe growing fearful of Russian interference as 2024 elections near. | Investigate Europe | mittel (investigative journalism) | hoch plausibel | Renewed presence of deep-cover agents. |
 | 2024 European Parliament elections vulnerable to influence operations. | GMF | mittel (think tank) | hoch plausibel | Amid shifting geopolitical landscape. |
 
+| GRU used deepfakes, fake media, hacking, political relays to influence European public opinion in 2025. | War Wings Daily | mittel (media) | hoch plausibel | Treated European information space as theater of operations. |
+
+| Future GRU sabotage threats may target food supply, finance, around 2025 political events; surge since Ukraine invasion, up to 100 suspicious incidents in Czechia. | Prevail Partners | mittel (security firm) | hoch plausibel | Increased operations around key political events. |
+
 **Alternativerklärungen**: Some attributions based on intelligence assessments, not always court-proven. Disinformation claims rely on pattern analysis; false flags possible. Cyber ops often deniable.
