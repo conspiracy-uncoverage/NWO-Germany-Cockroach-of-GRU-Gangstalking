@@ -174,17 +174,109 @@ Technischer Hinweis: Ein tieferer Abruf einzelner Repo-Dateien (z. B. `README.md
 - Reproduzierbarkeit: Können Daten und Schlussfolgerungen mit klaren Schritten nachvollzogen werden?
 - Trennung von Fakt vs. Interpretation: Claims in eine Claim→Quelle→Evidenzgrad-Matrix überführen.
 
-## Web-Recherche (GitHub: graf-kok-ain) – ausstehend
+## Gesicherte Web-Recherche (GitHub: graf-kok-ain)
 Stand: 2026-03-10
 
-- Ziel: https://github.com/graf-kok-ain?tab=repositories
-- Status: Abruf derzeit nicht möglich (temporärer DNS/Abruffehler beim Zugriff auf `github.com` in der Abrufumgebung). Für eine belastbare Auswertung ist ein lokales Klonen/Import in den Workspace erforderlich.
+### Profil
+- https://github.com/graf-kok-ain
 
-## Web-Recherche (GitHub: mrbloxx) – ausstehend
+### Öffentlich sichtbare Repositories (Liste aus der Repo-Ansicht)
+Hinweis: Diese Liste wurde aus der öffentlichen GitHub-Repo-Ansicht übernommen. In der GitHub-UI wurde der Stand als **20 Repositories** angezeigt.
+
+- https://github.com/graf-kok-ain/xzudemx
+- https://github.com/graf-kok-ain/YBRE
+- https://github.com/graf-kok-ain/NWO-Gangstalking-Music-Network-Krijo-Stalka-Olexesh-Tom-Rohrboeck
+- https://github.com/graf-kok-ain/It_is_Cyberwar_WW3_now_and_you_all_should_understand
+- https://github.com/graf-kok-ain/007-Feather_leakz
+- https://github.com/graf-kok-ain/Naomi_Seibt
+- https://github.com/graf-kok-ain/JURASSIC_PARK-Hollywood_Files
+- https://github.com/graf-kok-ain/STAR_WARS-Like_a_feather
+- https://github.com/graf-kok-ain/The_Traveler_-2011-
+- https://github.com/graf-kok-ain/Remember_the_Freenet_Hacker_in_1998
+- https://github.com/graf-kok-ain/Nie_wieder_Opfer
+- https://github.com/graf-kok-ain/litellm
+- https://github.com/graf-kok-ain/gangstalking-crowd
+- https://github.com/graf-kok-ain/fwupd
+- https://github.com/graf-kok-ain/passim
+- https://github.com/graf-kok-ain/react-native-web
+- https://github.com/graf-kok-ain/uswid-data
+- https://github.com/graf-kok-ain/oars
+- https://github.com/graf-kok-ain/normalize.css
+- https://github.com/graf-kok-ain/libddc
+
+### Erste inhaltliche Beobachtungen (ohne externe Verifikation)
+**Wichtig:** Die folgenden Punkte sind eine Beschreibung dessen, was in den Repo-Texten behauptet wird. Das ist **keine** Bestätigung der Behauptungen.
+
+- **`NWO-Gangstalking-Music-Network-Krijo-Stalka-Olexesh-Tom-Rohrboeck`**
+  - Enthält eine lange, stark formulierte „Intelligenzanalyse“ mit eigenem KI-Disclaimer („False Positives erwartet“, Fokus auf „KI-kontrollierte Entitäten“).
+  - In den gelesenen Abschnitten werden sehr weitreichende Behauptungen (GRU-Koordination, Geldwäsche, Rekrutierung, technische Überlegenheit) formuliert.
+  - **Offene Frage:** Sind im Repo dazu belastbare Primärquellen/Artefakte (Daten, IOCs, reproduzierbare Schritte) hinterlegt oder handelt es sich überwiegend um Narrative/Interpretation?
+
+- **`gangstalking-crowd`**
+  - Formuliert einen „Comprehensive Investigation Report“ inkl. „Critical Security Alert“.
+  - Beschreibt eine Methodik (OSINT, AI-Assisted Analysis, Network Mapping) und nennt Datenquellen-Kategorien (Spotify public data, Social Media, public records, crypto analysis).
+  - **Offene Frage:** Sind die genannten Daten/Analysen im Repo als Dateien/Datensätze nachvollziehbar vorhanden (z. B. CSV/JSON, Skripte, Registerauszüge, Domain-/WHOIS, Wallet-Analysen)?
+
+### Arbeitsdefinition: Was als „Beleg“ zählt
+- **Beleg (hoch)**: Offizielle Dokumente (Gericht/Behörden/Parlament), seriöse investigative Dossiers mit offengelegten Belegen, reproduzierbare Datensätze/Artefakte (z. B. Logs, Hashes, IOCs, Domain-/WHOIS, Registerauszüge).
+- **Hinweis (niedrig)**: Blogposts/Repo-Behauptungen ohne Primärquellen, rein interpretative Textanalyse, unklare Datenerhebung.
+
+### Nächste Prüfschritte (für belastbare Einordnung)
+- Pro Repo Dateibaum prüfen: Gibt es `data/`, `sources/`, CSV/JSON, Notebooks, Skripte?
+- Quellenprüfung: Sind Aussagen über GRU/Operationen mit **Primärquellen** oder anerkannten Untersuchungen verknüpft?
+- Reproduzierbarkeit: Können Daten und Schlussfolgerungen mit klaren Schritten nachvollzogen werden?
+- Trennung von Fakt vs. Interpretation: Claims in eine Claim→Quelle→Evidenzgrad-Matrix überführen.
+
+## Gesicherte Web-Recherche (GitHub: mrbloxx)
 Stand: 2026-03-10
 
-- Ziel: https://github.com/mrbloxx?tab=repositories
-- Status: Abruf derzeit nicht möglich (temporärer DNS/Abruffehler beim Zugriff auf `github.com` in der Abrufumgebung). Für eine belastbare Auswertung ist ein lokales Klonen/Import in den Workspace erforderlich.
+### Profil
+- https://github.com/mrbloxx
+
+### Öffentlich sichtbare Repositories (Liste aus der Repo-Ansicht)
+Hinweis: Diese Liste wurde aus der öffentlichen GitHub-Repo-Ansicht übernommen. In der GitHub-UI wurde der Stand als **18 Repositories** angezeigt.
+
+- https://github.com/mrbloxx/Bahai_Faith
+- https://github.com/mrbloxx/Medien-Manipulation-NWO-Cybermobbing-Gangstalking
+- https://github.com/mrbloxx/Truth-about-the-Cyberwar-NWO-Gangstalking-Verfassungsschutz-Deutschland-Polizei
+- https://github.com/mrbloxx/H.I.Z
+- https://github.com/mrbloxx/New_World_Order_Quest
+- https://github.com/mrbloxx/Olexesh
+- https://github.com/mrbloxx/Naomi_Seibt-Bitch
+- https://github.com/mrbloxx/The_Traveler-GRU
+- https://github.com/mrbloxx/ArniTheSavage-NWO-Gangstalking-Cybermobbing-Stalking
+- https://github.com/mrbloxx/Tom_Rohrboeck
+- https://github.com/mrbloxx/Covid-19_Leak
+- https://github.com/mrbloxx/Sie-werden-vom-Verfassungsschutz-beobachtet
+- https://github.com/mrbloxx/Frauelein_Jumpcut
+- https://github.com/mrbloxx/Erik_Ahrens
+- https://github.com/mrbloxx/Traveler.KM
+- https://github.com/mrbloxx/Naomi_Seibt
+- https://github.com/mrbloxx/Lil_Keen
+- https://github.com/mrbloxx/Disarstar
+
+### Erste inhaltliche Beobachtungen (ohne externe Verifikation)
+**Wichtig:** Die folgenden Punkte sind eine Beschreibung dessen, was in den Repo-Texten behauptet wird. Das ist **keine** Bestätigung der Behauptungen.
+
+- **`Medien-Manipulation-NWO-Cybermobbing-Gangstalking`**
+  - Enthält eine lange, stark formulierte „Intelligenzanalyse“ mit eigenem KI-Disclaimer („False Positives erwartet“, Fokus auf „KI-kontrollierte Entitäten“).
+  - In den gelesenen Abschnitten werden sehr weitreichende Behauptungen (GRU-Koordination, Geldwäsche, Rekrutierung, technische Überlegenheit) formuliert.
+  - **Offene Frage:** Sind im Repo dazu belastbare Primärquellen/Artefakte (Daten, IOCs, reproduzierbare Schritte) hinterlegt oder handelt es sich überwiegend um Narrative/Interpretation?
+
+- **`Truth-about-the-Cyberwar-NWO-Gangstalking-Verfassungsschutz-Deutschland-Polizei`**
+  - Formuliert einen „Comprehensive Investigation Report“ inkl. „Critical Security Alert“.
+  - Beschreibt eine Methodik (OSINT, AI-Assisted Analysis, Network Mapping) und nennt Datenquellen-Kategorien (Spotify public data, Social Media, public records, crypto analysis).
+  - **Offene Frage:** Sind die genannten Daten/Analysen im Repo als Dateien/Datensätze nachvollziehbar vorhanden (z. B. CSV/JSON, Skripte, Registerauszüge, Domain-/WHOIS, Wallet-Analysen)?
+
+### Arbeitsdefinition: Was als „Beleg“ zählt
+- **Beleg (hoch)**: Offizielle Dokumente (Gericht/Behörden/Parlament), seriöse investigative Dossiers mit offengelegten Belegen, reproduzierbare Datensätze/Artefakte (z. B. Logs, Hashes, IOCs, Domain-/WHOIS, Registerauszüge).
+- **Hinweis (niedrig)**: Blogposts/Repo-Behauptungen ohne Primärquellen, rein interpretative Textanalyse, unklare Datenerhebung.
+
+### Nächste Prüfschritte (für belastbare Einordnung)
+- Pro Repo Dateibaum prüfen: Gibt es `data/`, `sources/`, CSV/JSON, Notebooks, Skripte?
+- Quellenprüfung: Sind Aussagen über GRU/Operationen mit **Primärquellen** oder anerkannten Untersuchungen verknüpft?
+- Reproduzierbarkeit: Können Daten und Schlussfolgerungen mit klaren Schritten nachvollzogen werden?
+- Trennung von Fakt vs. Interpretation: Claims in eine Claim→Quelle→Evidenzgrad-Matrix überführen.
 
 ## Status
 Dieses Repository ist ein **Work-in-Progress**. Inhalte und Struktur werden iterativ ergänzt und konsolidiert.
