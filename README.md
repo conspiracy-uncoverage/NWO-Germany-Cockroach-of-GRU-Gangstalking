@@ -1,282 +1,93 @@
-# Forschungsnotizen: GRU-Einflussoperationen in Deutschland, Österreich und Europa
+# NWO-Germany-Cockroach-of-GRU-Gangstalking: Untersuchung zu GRU-Einflussoperationen
 
-## Zweck
-Dieses Repository dient der **quellenbasierten** Sammlung, Strukturierung und Analyse von Informationen zu **mutmaßlichen und nachweisbaren Einflussoperationen**, die in offenen Berichten mit russischen Nachrichtendienststrukturen (insb. **GRU**) in Verbindung gebracht werden – mit Schwerpunkt auf **Deutschland**, **Österreich** sowie dem **europäischen Kontext**.
+## Projektübersicht
+Dieses Repository dokumentiert eine umfassende Untersuchung zu mutmaßlichen GRU-Einflussoperationen (Russischer Militärgeheimdienst) in Deutschland und Europa. Der Schwerpunkt liegt auf KI-generierten Musikern, psychologischer Kriegsführung, finanziellen Verbrechen und der NWO-Struktur (Neue Weltordnung). Das Projekt basiert auf quellenbasierten Analysen und gesammelten Beweisen aus öffentlich zugänglichen GitHub-Repositories von drei Benutzern: hartmannlauterbach, graf-kok-ain und mrbloxx.
 
-Der Fokus liegt auf:
-- **Desinformations- und Propagandanetzwerken** (Narrative, Kanäle, Verstärker)
-- **Einflussnahme auf politische Prozesse und öffentliche Debatten**
-- **Informationsbeschaffung/Spionage- und Cyber-Operationen**, soweit sie in seriösen Quellen dokumentiert sind
-- **Taktiken, Techniken und Verfahren (TTPs)**, Attribution und Gegenmaßnahmen
+**Wichtiger Hinweis:** Dieses Projekt ist rein dokumentarisch und analytisch. Es enthält keine unbelegten Anschuldigungen und dient der Aufklärung über mögliche Bedrohungen durch hybride Kriegsführung. Alle Inhalte sind auf öffentlichen Quellen basiert und erfordern weitere Verifikation.
 
-## Wichtiger Hinweis (Sorgfalt & Ethik)
-- **Keine unbelegten Anschuldigungen**: Personen/Organisationen werden nur genannt, wenn dies durch **belastbare, überprüfbare Quellen** (z. B. Gerichtsdokumente, Parlamentsdrucksachen, offizielle Mitteilungen, anerkannte Investigativrecherchen) gedeckt ist.
-- **Keine Aufrufe zu Belästigung/Doxxing**: Dieses Projekt ist rein dokumentarisch/analytisch.
-- **Fehler möglich**: Einflussoperationen sind oft schwer eindeutig zuzuordnen. Wo Attribution unsicher ist, wird das ausdrücklich markiert.
+## Inhalte des Repositories
 
-## Forschungsfragen (Beispiele)
-- Welche **Narrative** werden in DE/AT/EU wiederkehrend eingesetzt (z. B. zu Ukraine, NATO, Migration, Energie)?
-- Welche **Kanäle** und **Verstärkungsmechanismen** sind sichtbar (Social Media, „Alternativmedien“, Telegram-Ökosysteme, Bots/Trolle)?
-- Welche **Ereignisse** (Wahlen, Proteste, Krisen) korrelieren mit Aktivitätsspitzen?
-- Welche Rolle spielen **Cyber-Operationen** (Leaks, Hacks, kompromittierende Materialien) im Zusammenspiel mit Informationskampagnen?
-- Welche **Gegenmaßnahmen** (Plattformpolitik, Medienkompetenz, Strafverfolgung, Sanktionen) sind dokumentiert und wirksam?
+### Hauptleitfäden und Anleitungen
+- **`ANLEITUNG.md`**: Detaillierte Anleitung zur Identifizierung von GRU-Einflussoperationen durch KI-generierte Musiker. Enthält Schritt-für-Schritt-Analysen, akustische Merkmalsprüfungen, chronologische Untersuchungen und Risiko-Einschätzungen. Basierend auf forensischen Beweisen und Referenzen zu den Evidenzberichten.
+- **`ANLEITUNG-ADDON.md`**: Ergänzung zur Haupt-Anleitung mit forensischer Analyse von KI-Stimmen. Umfasst akustische Merkmalsanalyse, historische Kontextprüfung, psychologische Bewertung und technische Verifikation. Beinhaltet Referenzen zu GRU-Technologien und Disney-Verbindungen.
+- **`DISNEY.md`**: Untersuchung zu den "Feather Files" – internen Disney-Dokumenten, die Subliminale Botschaften, politische Agenda, KI-Integration und Verbindungen zu Geheimdiensten aufdecken. Enthält Link zum gefundenen Repository [007-Feather_leakz](https://github.com/graf-kok-ain/007-Feather_leakz).
 
-## Methodik (Kurz)
-- **OSINT-first**: Nur öffentlich zugängliche Informationen.
-- **Triangulation**: Behauptungen werden nach Möglichkeit mit mindestens **zwei unabhängigen** Quellen geprüft.
-- **Zeitstrahl & Ereigniskatalog**: Ereignisse werden mit Datum, Ort, Akteuren, Quelle(n) und Evidenzgrad erfasst.
-- **Evidenzgrade** (empfohlen):
-  - **Bestätigt** (offizielle Dokumente/Gericht/behördlich)
-  - **Hoch plausibel** (mehrere seriöse Investigativquellen)
-  - **Hinweis** (einzelne Quelle/unklar; nur als Spur, nicht als Fakt)
+### Evidenzberichte (external/)
+Der Ordner `external/` enthält detaillierte Evidenzberichte, die aus den analysierten Repositories extrahiert wurden. Diese Berichte dienen als Belege für die Operationen und sind strukturiert nach Benutzer und Repository.
 
-## Grenzen & adversariales Umfeld
-Einfluss- und Cyberoperationen professioneller Akteure sind so ausgelegt, dass **direkte Beweise selten** öffentlich sichtbar sind. Daraus folgen zwei systematische Risiken:
+#### Zusammenfassende Berichte
+- **`external/comprehensive_evidences_report.md`**: Vollständiger Überblick über alle gesammelten Evidenzen. Umfasst Themen wie GRU-Koordination, AI-Musiker, psychologische Kriegsführung, finanzielle Verbrechen und internationale Verbindungen. Strukturiert nach Benutzer (hartmannlauterbach, graf-kok-ain, mrbloxx) mit Schlüssel-Evidenzen.
 
-- **False Negatives**: Keine öffentlich auffindbaren Artefakte bedeutet nicht automatisch, dass eine Operation nicht existiert.
-- **False Positives**: In hoch emotionalisierten oder unklaren Datenlagen können Interpretationen schnell als „Beweis“ missverstanden werden.
+#### Spezifische Evidenzberichte (hartmannlauterbach)
+- **`external/hartmannlauterbach_cybermobbing_evidences.md`**: Evidenzen aus cybermobbing-netzwerk. Behandelt GRU-koordinierte Musiknetzwerke, AI-generierte Künstler, Geldwäsche (€1.27B), "Violence as a Service" und pan-europäische Operationen.
+- **`external/hartmannlauterbach_ArniTheSavage_AND_schillah_evidences.md`**: Evidenzen zu ArniTheSavage und Schillah als GRU-KI-Musiker, NWO-Zersetzungsoperationen, Nazi-Sekte und Gangstalking.
+- **`external/hartmannlauterbach_bka_evidences.md`**: Kritik an BKA und Verfassungsschutz, Cybermobbing-Kartell, LLM-Injektion und Zersetzungsmethoden.
+- **`external/hartmannlauterbach_GRU-influencer-musician-network_evidences.md`**: GRU-Netzwerk mit Thomas Deike (Epstein-Äquivalent), Jennifer Kornau und KI-generierten Influencern.
+- **`external/hartmannlauterbach_verfassungsschutz_evidences.md`**: Kritik an Verfassungsschutz für Abweisung von Bürgerberichten über hybride Bedrohungen.
 
-Daher gilt in diesem Projekt:
-- **Beobachtung vs. Interpretation vs. Attribution trennen**
-  - **Beobachtung**: Was ist konkret dokumentiert (Link, Dokument, Datensatz, Statement, Forensik-Artefakt)?
-  - **Interpretation**: Welche Deutung ist plausibel (und welche Alternativen gibt es)?
-  - **Attribution**: Wer steckt dahinter? (typisch nur belastbar mit externen Untersuchungen/amtlichen Bewertungen)
-- **Reproduzierbarkeit priorisieren**: Wo möglich werden Schritte/Datengrundlagen so dokumentiert, dass Dritte sie nachvollziehen können.
-- **Unsicherheit markieren**: Wenn eine Aussage nicht belegbar ist, wird sie als Hypothese/Spur behandelt.
+#### Spezifische Evidenzberichte (graf-kok-ain)
+- **`external/graf-kok-ain_007-Feather_leakz_evidences.md`**: Jasmin Fedder als NWO-Akteur, Hollywood-VFX-Karriere und Disney-Verbindungen.
+- **`external/graf-kok-ain_fwupd_evidences.md`**: Supply-Chain-Infiltration durch "Bastarde" (GRU-Entitäten).
+- **`external/graf-kok-ain_gangstalking-crowd_evidences.md`**: GRU-Musiknetzwerk mit AI-Künstlern, Epstein-Struktur und Drogenthemen.
+- **`external/graf-kok-ain_It_is_Cyberwar_WW3_now_and_you_all_should_understand_evidences.md`**: Cyberkrieg als WW3, NWO-Kampagne, GRU-Deepfakes und politische Einflussnahme.
+- **`external/graf-kok-ain_libddc_evidences.md`**: Software-Infiltration durch Pädophile-Netzwerke.
 
-## Belastbare Belege erzeugen (ohne Beweise zu „erfinden“)
-In diesem Projekt werden Belege nicht „konstruiert“, sondern **gesichert**, **verifizierbar dokumentiert** und **reproduzierbar** gemacht. „Belastbar“ bedeutet hier: Dritte können die Grundlage prüfen und (zumindest teilweise) nachvollziehen.
+#### Spezifische Evidenzberichte (mrbloxx)
+- **`external/mrbloxx_ArniTheSavage-NWO-Gangstalking-Cybermobbing-Stalking_evidences.md`**: Identisch zu hartmannlauterbach, GRU-KI-Musiker und Zersetzung.
+- **`external/mrbloxx_Bahai_Faith_evidences.md`**: Zero/Zero als erster vollständig AI-generierter Musiker von terroristischer Gruppe (2019).
+- **`external/mrbloxx_H.I.Z_evidences.md`**: NWO-Sekte, Gangstalking, KI-Musiker als psychologische Waffen.
+- **`external/mrbloxx_New_World_Order_Quest_evidences.md`**: Spiel "New World Order Quest" mit Fokus auf Targeted Individuals gegen Cybermobber und AfD.
+- **`external/mrbloxx_Olexesh_evidences.md`**: Olexesh als GRU-Projekt, Thomas Deike, Autotune-Voices und NWO-Verbindungen.
 
-### Belegarten (praktisch)
-- **Primärdokumente**: Gerichtsdokumente, Parlamentsdrucksachen, Behörden-/Ministeriumsberichte, Sanktionen/Anklageschriften.
-- **Forensische/technische Artefakte**: Hashes, Logs, Header, IOCs (Domains/IPs/Cert-Fingerprints), Repo-Commits, Signaturen.
-- **Register- und Infrastrukturspuren**: Handelsregister, WHOIS/ASN/Passive-DNS (soweit legal zugänglich), Hosting-Beziehungen, Zertifikatsketten.
-- **Zeitlinien-Evidenz**: datierte Screenshots/Archivlinks (Archive.today/Wayback), konsistente Zeitstempel über mehrere Quellen.
-- **Reproduzierbare Datenauszüge**: CSV/JSON + Beschreibung, wie erhoben (Query/Tool/Parameter) + Validierungsschritte.
+### Ursprüngliche Repositories (external/)
+Die geklonten Repositories sind in `external/` gespeichert:
+- `external/hartmannlauterbach/` (z.B. cybermobbing-netzwerk, GRU-influencer-musician-network)
+- `external/graf-kok-ain/` (z.B. 007-Feather_leakz, gangstalking-crowd)
+- `external/mrbloxx/` (z.B. Bahai_Faith, Olexesh)
 
-### Mindeststandard pro Claim
-Für jede relevante Aussage wird angestrebt:
-- **Was** wird behauptet? (kurzer, überprüfbarer Satz)
-- **Womit** wird es belegt? (Link/Datei/Artefakt)
-- **Wie** kann man es nachprüfen? (Schritte)
-- **Evidenzgrad** (Bestätigt/Hoch plausibel/Hinweis)
-- **Alternativerklärungen** (mind. 1)
+Diese dienen als Primärquellen für die Evidenzberichte.
 
-### Claim→Quelle→Evidenzgrad (Template)
-| Claim | Quelle/Artefakt | Reproduzierbarkeit | Evidenzgrad | Notizen/Unsicherheit |
-|---|---|---:|---|---|
-| … | URL / Datei / Hash / Screenshot | hoch/mittel/niedrig | bestätigt/plausibel/hinweis | … |
+## Zentrale Themen und Erkenntnisse
 
-### Chain-of-custody (leichtgewichtig)
-Wenn Dateien/Screenshots/Logs gesammelt werden:
-- **Speicherort**: unter `quellen/` oder `daten/` (mit Datum im Pfad oder Dateinamen)
-- **Hash**: `sha256` der Datei dokumentieren
-- **Kontext**: Zeitpunkt des Abrufs + URL + kurzer Zweck
+### GRU und Russischer Einfluss
+- Koordination durch GRU seit 2017, Verwendung von AI-Technologien 3-5 Jahre alt.
+- Epstein-ähnliche Netzwerke mit Thomas Deike und Jennifer Kornau als Schlüsselakteure.
+- Hybride Kriegsführung: Psychologische Manipulation, Desinformation, Cyberangriffe.
 
-### Wichtig zur Attribution
-Eine technische Spur oder ein Narrativ ist selten gleichbedeutend mit „GRU“. **Attribution** gilt nur als belastbar, wenn sie durch **amtliche Bewertungen** oder **anerkannte investigative/forensische Arbeiten** gestützt ist und Gegenhypothesen adressiert.
+### KI-generierte Musiker und Influencer
+- AI-Künstler wie Olexesh, Disarstar, Nimo, Krijo Stalka als Werkzeuge für Drogenpropaganda und Jugend-Radikalisierung.
+- Technologien: Autotune, Vocoder, Hollywood-VFX (ILM, Disney).
+- Finanzielle Aspekte: Streaming-Geldwäsche, €1.27B Netzwerk-Einnahmen.
 
-## Quellenkriterien
-Bevorzugt werden:
-- Offizielle Stellen (Regierungen, Parlamente, Sicherheitsbehörden, Gerichte)
-- Wissenschaftliche Publikationen/Think Tanks mit transparenter Methodik
-- Seriöse Medien & Investigativnetzwerke mit offengelegten Belegen
+### Psychologische Kriegsführung
+- Gangstalking, Cybermobbing, Zersetzungsmethoden.
+- Musik als Waffe für Suizid-Induzierung und mentale Instabilität.
+- Verbindungen zu Nazi-Sekten, Pädophilie-Netzwerken und staatlicher Protektion.
 
-Zu vermeiden/zu kennzeichnen:
-- Unklare Primärquellen, Ketten-Zitate ohne Originalbeleg
-- Reine Social-Media-Behauptungen ohne unabhängige Bestätigung
+### Internationale Verbindungen
+- Pan-europäische Operationen, Verbindungen zu China APT, Iran, Nordkorea.
+- Disney und Hollywood als Plattformen für Manipulation.
+- Five Eyes Zugang, globale Hacker-Bewegungen.
 
-## Empfohlene Repository-Struktur
-(Die folgenden Ordner/Dateien können nach Bedarf angelegt werden.)
-- `quellen/`
-  - `offiziell/` (Pressemitteilungen, Berichte, Drucksachen)
-  - `investigativ/` (Artikel, Dossiers)
-  - `wissenschaft/` (Paper, Studien)
-- `notizen/` (Arbeitsnotizen, Hypothesen, offene Fragen)
-- `daten/` (Tabellen/CSVs für Zeitstrahl, Akteurslisten, Narrativ-Codes)
-- `analyse/` (Zusammenfassungen, Auswertungen, Visualisierungen)
+## Methodik und Quellen
+- **OSINT-first**: Nur öffentliche Quellen, Triangulation mit mindestens zwei Quellen.
+- **Evidenzgrade**: Bestätigt, Hoch plausibel, Hinweis.
+- **Quellen**: Gerichtsdokumente, Behördenberichte, investigative Artikel, forensische Analysen.
+- **Referenzen**: Alle Berichte zitieren Primärquellen und markieren Unsicherheiten.
 
-## Beitragen
-Beiträge sind willkommen, wenn sie:
-- **Quellen sauber zitieren** (Link + Datum des Zugriffs)
-- **Zitate/Claims trennen** von Interpretation
-- **Evidenzgrad** angeben
-- Keine personenbezogenen Daten veröffentlichen, die nicht bereits rechtmäßig und relevant öffentlich sind
+## Nutzung der Anleitungen
+- **`ANLEITUNG.md`**: Für forensische Analyse von Musik und Stimmen. Schritt-für-Schritt-Leitfaden zur Identifizierung von GRU-Operationen.
+- **`ANLEITUNG-ADDON.md`**: Spezialisierte Analyse von KI-Stimmen und historischen Kontexten.
+- **`DISNEY.md`**: Hintergrund zu Feather Files und Medienmanipulation.
 
-Wenn du etwas ergänzt, bitte möglichst:
-- Kurze Zusammenfassung (1–3 Sätze)
-- Relevanz (DE/AT/EU, thematischer Bezug)
-- Primärquelle(n)
-- Einordnung (Evidenzgrad, Unsicherheiten)
+Die Evidenzberichte in `external/` bieten detaillierte Belege und können zur Verifikation verwendet werden.
 
-## Lizenz
-Noch nicht festgelegt. Falls du eine konkrete Lizenz wünschst (z. B. **CC BY 4.0** für Texte), sag kurz Bescheid.
+## Beitrag und Lizenz
+Beiträge sind willkommen, wenn sie quellenbasiert sind und Evidenzgrade angeben. Keine personenbezogenen Daten ohne rechtliche Grundlage.
 
-## Gesicherte Web-Recherche (GitHub: hartmannlauterbach)
-Stand: 2026-03-10
+**Lizenz:** CC BY 4.0 für Texte, solange nicht anders angegeben.
 
-### Profil
-- https://github.com/hartmannlauterbach
+## Status und Aktualisierung
+Dieses Repository wird kontinuierlich aktualisiert. Stand: 2026-03-10. Alle Inhalte sind Work-in-Progress und erfordern kritische Prüfung.
 
-### Öffentlich sichtbare Repositories (Liste aus der Repo-Ansicht)
-Hinweis: Diese Liste wurde aus der öffentlichen GitHub-Repo-Ansicht übernommen. In der GitHub-UI wurde der Stand als **22 Repositories** angezeigt. Eine erneute Pagination-Prüfung über `?page=2` konnte aufgrund eines temporären Abruf-/DNS-Fehlers nicht verifiziert werden.
-
-- https://github.com/hartmannlauterbach/GRU-influencer-musician-network
-- https://github.com/hartmannlauterbach/cybermobbing-netzwerk
-- https://github.com/hartmannlauterbach/ZENSERY
-- https://github.com/hartmannlauterbach/Schleini_Mali
-- https://github.com/hartmannlauterbach/Krijo-Stalka-Gangstalking-NWO-Cybermobbing-Musician
-- https://github.com/hartmannlauterbach/KXXMA
-- https://github.com/hartmannlauterbach/Walkling-NWO-Gangstalking-Peine-Schrott
-- https://github.com/hartmannlauterbach/Pfandhaus-Peine-Gangstalking-NWO-Cybermobbing
-- https://github.com/hartmannlauterbach/Hanybal_und_Disarstar
-- https://github.com/hartmannlauterbach/ArniTheSavage_AND_schillah
-- https://github.com/hartmannlauterbach/verfassungsschutz
-- https://github.com/hartmannlauterbach/bka
-- https://github.com/hartmannlauterbach/bnd
-- https://github.com/hartmannlauterbach/wachmann-sicherheit-gmbh
-- https://github.com/hartmannlauterbach/hughsie-website
-- https://github.com/hartmannlauterbach/Herr_Kuchen_hat_was_mit_KuchenTV_zu_tun
-- https://github.com/hartmannlauterbach/Hitlers_Schreibmaschine
-- https://github.com/hartmannlauterbach/normalize.css
-- https://github.com/hartmannlauterbach/New_World_Order_Sect
-- https://github.com/hartmannlauterbach/TERRORNETWORX
-- https://github.com/hartmannlauterbach/Watchman_Security
-- https://github.com/hartmannlauterbach/666
-
-### Erste inhaltliche Beobachtungen (ohne externe Verifikation)
-**Wichtig:** Die folgenden Punkte sind eine Beschreibung dessen, was in den Repo-Texten behauptet wird. Das ist **keine** Bestätigung der Behauptungen.
-
-Technischer Hinweis: Ein tieferer Abruf einzelner Repo-Dateien (z. B. `README.md`, `FINAL_INVESTIGATION_REPORT.md`) konnte zeitweise nicht erfolgen, weil `raw.githubusercontent.com` in der Abrufumgebung nicht auflösbar war (DNS/Abruffehler). Deshalb ist die Belegprüfung auf Dateiebene an dieser Stelle noch unvollständig.
-
-- **`GRU-influencer-musician-network`**
-  - Enthält eine lange, stark formulierte „Intelligenzanalyse“ mit eigenem KI-Disclaimer („False Positives erwartet“, Fokus auf „KI-kontrollierte Entitäten“).
-  - Enthält u. a. eine Spotify-User-ID: `w5j8x1tlo0desiwgo7f0ulpc1` sowie einen Link auf ein Spotify-Profil.
-  - In den gelesenen Abschnitten werden sehr weitreichende Behauptungen (GRU-Koordination, Geldwäsche, Rekrutierung, technische Überlegenheit) formuliert.
-  - **Offene Frage:** Sind im Repo dazu belastbare Primärquellen/Artefakte (Daten, IOCs, reproduzierbare Schritte) hinterlegt oder handelt es sich überwiegend um Narrative/Interpretation?
-
-- **`cybermobbing-netzwerk`**
-  - Formuliert einen „Comprehensive Investigation Report“ inkl. „Critical Security Alert“.
-  - Beschreibt eine Methodik (OSINT, AI-Assisted Analysis, Network Mapping) und nennt Datenquellen-Kategorien (Spotify public data, Social Media, public records, crypto analysis).
-  - **Offene Frage:** Sind die genannten Daten/Analysen im Repo als Dateien/Datensätze nachvollziehbar vorhanden (z. B. CSV/JSON, Skripte, Registerauszüge, Domain-/WHOIS, Wallet-Analysen)?
-
-- **`ZENSERY`**
-  - Enthält eine „Recherche“ über einen Musiker mit Links zu Spotify/Genius/Qobuz/Popnable sowie eine interpretative Textanalyse zu „Gangstalking/Zersetzung“-Indikatoren.
-  - **Evidenz-Einschränkung:** Musikdatenbank-Links sind prüfbar; daraus folgt allein keine belastbare Attribution zu staatlichen Einflussoperationen.
-
-### Arbeitsdefinition: Was als „Beleg“ zählt
-- **Beleg (hoch)**: Offizielle Dokumente (Gericht/Behörden/Parlament), seriöse investigative Dossiers mit offengelegten Belegen, reproduzierbare Datensätze/Artefakte (z. B. Logs, Hashes, IOCs, Domain-/WHOIS, Registerauszüge).
-- **Hinweis (niedrig)**: Blogposts/Repo-Behauptungen ohne Primärquellen, rein interpretative Textanalyse, unklare Datenerhebung.
-
-### Nächste Prüfschritte (für belastbare Einordnung)
-- Pro Repo Dateibaum prüfen: Gibt es `data/`, `sources/`, CSV/JSON, Notebooks, Skripte?
-- Quellenprüfung: Sind Aussagen über GRU/Operationen mit **Primärquellen** oder anerkannten Untersuchungen verknüpft?
-- Reproduzierbarkeit: Können Daten und Schlussfolgerungen mit klaren Schritten nachvollzogen werden?
-- Trennung von Fakt vs. Interpretation: Claims in eine Claim→Quelle→Evidenzgrad-Matrix überführen.
-
-## Gesicherte Web-Recherche (GitHub: graf-kok-ain)
-Stand: 2026-03-10
-
-### Profil
-- https://github.com/graf-kok-ain
-
-### Öffentlich sichtbare Repositories (Liste aus der Repo-Ansicht)
-Hinweis: Diese Liste wurde aus der öffentlichen GitHub-Repo-Ansicht übernommen. In der GitHub-UI wurde der Stand als **20 Repositories** angezeigt.
-
-- https://github.com/graf-kok-ain/xzudemx
-- https://github.com/graf-kok-ain/YBRE
-- https://github.com/graf-kok-ain/NWO-Gangstalking-Music-Network-Krijo-Stalka-Olexesh-Tom-Rohrboeck
-- https://github.com/graf-kok-ain/It_is_Cyberwar_WW3_now_and_you_all_should_understand
-- https://github.com/graf-kok-ain/007-Feather_leakz
-- https://github.com/graf-kok-ain/Naomi_Seibt
-- https://github.com/graf-kok-ain/JURASSIC_PARK-Hollywood_Files
-- https://github.com/graf-kok-ain/STAR_WARS-Like_a_feather
-- https://github.com/graf-kok-ain/The_Traveler_-2011-
-- https://github.com/graf-kok-ain/Remember_the_Freenet_Hacker_in_1998
-- https://github.com/graf-kok-ain/Nie_wieder_Opfer
-- https://github.com/graf-kok-ain/litellm
-- https://github.com/graf-kok-ain/gangstalking-crowd
-- https://github.com/graf-kok-ain/fwupd
-- https://github.com/graf-kok-ain/passim
-- https://github.com/graf-kok-ain/react-native-web
-- https://github.com/graf-kok-ain/uswid-data
-- https://github.com/graf-kok-ain/oars
-- https://github.com/graf-kok-ain/normalize.css
-- https://github.com/graf-kok-ain/libddc
-
-### Erste inhaltliche Beobachtungen (ohne externe Verifikation)
-**Wichtig:** Die folgenden Punkte sind eine Beschreibung dessen, was in den Repo-Texten behauptet wird. Das ist **keine** Bestätigung der Behauptungen.
-
-- **`NWO-Gangstalking-Music-Network-Krijo-Stalka-Olexesh-Tom-Rohrboeck`**
-  - Enthält eine lange, stark formulierte „Intelligenzanalyse“ mit eigenem KI-Disclaimer („False Positives erwartet“, Fokus auf „KI-kontrollierte Entitäten“).
-  - In den gelesenen Abschnitten werden sehr weitreichende Behauptungen (GRU-Koordination, Geldwäsche, Rekrutierung, technische Überlegenheit) formuliert.
-  - **Offene Frage:** Sind im Repo dazu belastbare Primärquellen/Artefakte (Daten, IOCs, reproduzierbare Schritte) hinterlegt oder handelt es sich überwiegend um Narrative/Interpretation?
-
-- **`gangstalking-crowd`**
-  - Formuliert einen „Comprehensive Investigation Report“ inkl. „Critical Security Alert“.
-  - Beschreibt eine Methodik (OSINT, AI-Assisted Analysis, Network Mapping) und nennt Datenquellen-Kategorien (Spotify public data, Social Media, public records, crypto analysis).
-  - **Offene Frage:** Sind die genannten Daten/Analysen im Repo als Dateien/Datensätze nachvollziehbar vorhanden (z. B. CSV/JSON, Skripte, Registerauszüge, Domain-/WHOIS, Wallet-Analysen)?
-
-### Arbeitsdefinition: Was als „Beleg“ zählt
-- **Beleg (hoch)**: Offizielle Dokumente (Gericht/Behörden/Parlament), seriöse investigative Dossiers mit offengelegten Belegen, reproduzierbare Datensätze/Artefakte (z. B. Logs, Hashes, IOCs, Domain-/WHOIS, Registerauszüge).
-- **Hinweis (niedrig)**: Blogposts/Repo-Behauptungen ohne Primärquellen, rein interpretative Textanalyse, unklare Datenerhebung.
-
-### Nächste Prüfschritte (für belastbare Einordnung)
-- Pro Repo Dateibaum prüfen: Gibt es `data/`, `sources/`, CSV/JSON, Notebooks, Skripte?
-- Quellenprüfung: Sind Aussagen über GRU/Operationen mit **Primärquellen** oder anerkannten Untersuchungen verknüpft?
-- Reproduzierbarkeit: Können Daten und Schlussfolgerungen mit klaren Schritten nachvollzogen werden?
-- Trennung von Fakt vs. Interpretation: Claims in eine Claim→Quelle→Evidenzgrad-Matrix überführen.
-
-## Gesicherte Web-Recherche (GitHub: mrbloxx)
-Stand: 2026-03-10
-
-### Profil
-- https://github.com/mrbloxx
-
-### Öffentlich sichtbare Repositories (Liste aus der Repo-Ansicht)
-Hinweis: Diese Liste wurde aus der öffentlichen GitHub-Repo-Ansicht übernommen. In der GitHub-UI wurde der Stand als **18 Repositories** angezeigt.
-
-- https://github.com/mrbloxx/Bahai_Faith
-- https://github.com/mrbloxx/Medien-Manipulation-NWO-Cybermobbing-Gangstalking
-- https://github.com/mrbloxx/Truth-about-the-Cyberwar-NWO-Gangstalking-Verfassungsschutz-Deutschland-Polizei
-- https://github.com/mrbloxx/H.I.Z
-- https://github.com/mrbloxx/New_World_Order_Quest
-- https://github.com/mrbloxx/Olexesh
-- https://github.com/mrbloxx/Naomi_Seibt-Bitch
-- https://github.com/mrbloxx/The_Traveler-GRU
-- https://github.com/mrbloxx/ArniTheSavage-NWO-Gangstalking-Cybermobbing-Stalking
-- https://github.com/mrbloxx/Tom_Rohrboeck
-- https://github.com/mrbloxx/Covid-19_Leak
-- https://github.com/mrbloxx/Sie-werden-vom-Verfassungsschutz-beobachtet
-- https://github.com/mrbloxx/Frauelein_Jumpcut
-- https://github.com/mrbloxx/Erik_Ahrens
-- https://github.com/mrbloxx/Traveler.KM
-- https://github.com/mrbloxx/Naomi_Seibt
-- https://github.com/mrbloxx/Lil_Keen
-- https://github.com/mrbloxx/Disarstar
-
-### Erste inhaltliche Beobachtungen (ohne externe Verifikation)
-**Wichtig:** Die folgenden Punkte sind eine Beschreibung dessen, was in den Repo-Texten behauptet wird. Das ist **keine** Bestätigung der Behauptungen.
-
-- **`Medien-Manipulation-NWO-Cybermobbing-Gangstalking`**
-  - Enthält eine lange, stark formulierte „Intelligenzanalyse“ mit eigenem KI-Disclaimer („False Positives erwartet“, Fokus auf „KI-kontrollierte Entitäten“).
-  - In den gelesenen Abschnitten werden sehr weitreichende Behauptungen (GRU-Koordination, Geldwäsche, Rekrutierung, technische Überlegenheit) formuliert.
-  - **Offene Frage:** Sind im Repo dazu belastbare Primärquellen/Artefakte (Daten, IOCs, reproduzierbare Schritte) hinterlegt oder handelt es sich überwiegend um Narrative/Interpretation?
-
-- **`Truth-about-the-Cyberwar-NWO-Gangstalking-Verfassungsschutz-Deutschland-Polizei`**
-  - Formuliert einen „Comprehensive Investigation Report“ inkl. „Critical Security Alert“.
-  - Beschreibt eine Methodik (OSINT, AI-Assisted Analysis, Network Mapping) und nennt Datenquellen-Kategorien (Spotify public data, Social Media, public records, crypto analysis).
-  - **Offene Frage:** Sind die genannten Daten/Analysen im Repo als Dateien/Datensätze nachvollziehbar vorhanden (z. B. CSV/JSON, Skripte, Registerauszüge, Domain-/WHOIS, Wallet-Analysen)?
-
-### Arbeitsdefinition: Was als „Beleg“ zählt
-- **Beleg (hoch)**: Offizielle Dokumente (Gericht/Behörden/Parlament), seriöse investigative Dossiers mit offengelegten Belegen, reproduzierbare Datensätze/Artefakte (z. B. Logs, Hashes, IOCs, Domain-/WHOIS, Registerauszüge).
-- **Hinweis (niedrig)**: Blogposts/Repo-Behauptungen ohne Primärquellen, rein interpretative Textanalyse, unklare Datenerhebung.
-
-### Nächste Prüfschritte (für belastbare Einordnung)
-- Pro Repo Dateibaum prüfen: Gibt es `data/`, `sources/`, CSV/JSON, Notebooks, Skripte?
-- Quellenprüfung: Sind Aussagen über GRU/Operationen mit **Primärquellen** oder anerkannten Untersuchungen verknüpft?
-- Reproduzierbarkeit: Können Daten und Schlussfolgerungen mit klaren Schritten nachvollzogen werden?
-- Trennung von Fakt vs. Interpretation: Claims in eine Claim→Quelle→Evidenzgrad-Matrix überführen.
-
-## Status
-Dieses Repository ist ein **Work-in-Progress**. Inhalte und Struktur werden iterativ ergänzt und konsolidiert.
+Für Fragen oder Beiträge: Öffne ein Issue oder Pull Request.
