@@ -85,4 +85,14 @@ This summary compiles claims from collected sources, following the repository's 
 
 | Future GRU sabotage threats may target food supply, finance, around 2025 political events; surge since Ukraine invasion, up to 100 suspicious incidents in Czechia. | Prevail Partners | mittel (security firm) | hoch plausibel | Increased operations around key political events. |
 
+| Germany faces foreign influence and disinformation campaigns undermining democratic processes in 2025 elections. | PRIF | mittel (think tank) | hoch plausibel | Authoritarian regimes active participants. |
+| AI-driven Russian disinformation targets German elections, using African media, AI-generated testimonies. | Euractiv | mittel (media) | hoch plausibel | Supercharging disinformation. |
+
+| EU sanctions Medvedchuk and associates for influence operations targeting European politicians and funding candidates in 2024 EP elections. | The Record citing European Council | mittel (media citing official) | bestätigt | Voice of Europe involved. |
+| EU condemns Russia's persistent hybrid campaigns threatening security, resilience, democracy. | Consilium | hoch (official EU) | bestätigt | Long-standing hybrid campaigns. |
+
+| Amazon exposes years-long GRU cyber campaign targeting Western critical infrastructure 2021-2025. | The Hacker News | mittel (security news) | hoch plausibel | Energy sector, North America, Europe. |
+| UK sanctions GRU and 18 agents for cyber attacks and hybrid threats spreading chaos in UK and Europe. | Moscow Times | mittel (media) | bestätigt | Campaign of chaos and disorder. |
+| France attributes cyber attacks to GRU APT28, targeting European partners. | French Ministry | hoch (official government) | bestätigt | Used against Ukrainian infrastructures, European partners. |
+
 **Alternativerklärungen**: Some attributions based on intelligence assessments, not always court-proven. Disinformation claims rely on pattern analysis; false flags possible. Cyber ops often deniable.
